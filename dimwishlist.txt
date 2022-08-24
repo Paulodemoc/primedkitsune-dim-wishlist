@@ -1,0 +1,2 @@
+//Anything with Air-Assault perk
+dimwishlist:item=-1&perks=3722653512
